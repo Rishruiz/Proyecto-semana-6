@@ -6,3 +6,4 @@ if edad < 18:
 else:
     print("Eres mayor de edad")
 
+print("¡Hola Mundo!")
